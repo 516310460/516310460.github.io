@@ -1,0 +1,1 @@
+import{_ as c,o as n,c as o,g as r}from"./entry-1ea7b20d.mjs";const s={},t={class:"n-card n-card-base"};function a(e,_){return n(),o("div",t,[r(e.$slots,"default")])}var l=c(s,[["render",a]]);export{l as default};

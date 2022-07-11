@@ -1,1 +1,0 @@
-import{_ as t,o as e,c as o}from"./entry-62db5060.mjs";const r={props:{options:{type:[Array,String],default:()=>[]}},data(){return{value:null}}};function n(a,c,s,l,p,u){return e(),o("div",null,"Not working on content v2 docs!")}var _=t(r,[["render",n]]);export{_ as default};

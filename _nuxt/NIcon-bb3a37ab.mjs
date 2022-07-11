@@ -1,0 +1,1 @@
+import{_ as r,d as t,o as s,c,n as a}from"./entry-1ea7b20d.mjs";const _=t({__name:"NIcon",props:{icon:null},setup(o,{expose:n}){n();const e={};return Object.defineProperty(e,"__isScriptSetup",{enumerable:!1,value:!0}),e}});function p(o,n,e,l,i,u){return s(),c("div",{class:a(["n-icon",e.icon])},null,2)}var f=r(_,[["render",p]]);export{f as default};

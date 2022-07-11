@@ -1,0 +1,1 @@
+import{_ as e,o as a,c}from"./entry-1ea7b20d.mjs";const o={},r={class:"h-page max-h-page flex flex-col"};function n(s,t){return a(),c("div",r," playground ")}var l=e(o,[["render",n]]);export{l as default};

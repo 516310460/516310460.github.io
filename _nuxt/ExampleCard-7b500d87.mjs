@@ -1,1 +1,0 @@
-import{_ as r,o as a,c as o,g as s}from"./entry-62db5060.mjs";const t={},c={class:"p-6 border bg-white dark:bg-black dark:border-gray-700 rounded"};function d(e,n){return a(),o("div",c,[s(e.$slots,"default")])}var _=r(t,[["render",d]]);export{_ as default};

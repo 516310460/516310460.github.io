@@ -1,1 +1,0 @@
-import{_ as o,o as t,c as a,a as r,g as s}from"./entry-62db5060.mjs";const c={},n={class:"text-4xl"};function l(e,_){return t(),a("section",null,[r("h1",n,[s(e.$slots,"default")]),s(e.$slots,"description")])}var f=o(c,[["render",l]]);export{f as default};

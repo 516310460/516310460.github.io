@@ -1,0 +1,1 @@
+import{_ as t,o,c,j as n,k as _}from"./entry-1ea7b20d.mjs";const a={},r={class:"text-4xl"};function s(p,l){const e=_;return o(),c("h1",r,[n(e,{unwrap:"p"})])}var x=t(a,[["render",s]]);export{x as default};

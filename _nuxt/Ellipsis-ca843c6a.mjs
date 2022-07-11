@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,p as a,f as c,a as l}from"./entry-1ea7b20d.mjs";const _={},d=s=>(a("data-v-f6212f80"),s=s(),c(),s),p={class:"absolute left-0 top-0 w-full max-w-full"},f=d(()=>l("div",{class:"ellipsis"},null,-1)),i=[f];function r(s,n){return o(),t("div",p,i)}var h=e(_,[["render",r],["__scopeId","data-v-f6212f80"]]);export{h as default};

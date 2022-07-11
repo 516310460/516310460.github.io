@@ -1,1 +1,0 @@
-import n from"./ErrorPage-c7c73487.mjs";import{_,d as p,o as s,h as a}from"./entry-62db5060.mjs";import"./ButtonLink-ae3b59ed.mjs";const c=p({__name:"index",setup(t,{expose:r}){r();const e={};return Object.defineProperty(e,"__isScriptSetup",{enumerable:!1,value:!0}),e}});function i(t,r,e,u,m,d){const o=n;return s(),a(o)}var $=_(c,[["render",i]]);export{$ as default};
